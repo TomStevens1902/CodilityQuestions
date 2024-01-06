@@ -1,3 +1,4 @@
+//https://app.codility.com/demo/results/trainingDBVFZK-9U9/
 #include <vector>
 using namespace std;
 
